@@ -8,8 +8,8 @@ fn main() {
     let mut emulator = MSDOSEmulator::new();
     let mut input = String::new();
 
-    println!("MS-DOS Emulator v1.0 - Rust");
-    println!("Copyright (C) 2024 Dr. Aldo Gonzalez Vazquez");
+    println!("MS-DOS Emulator v1.1 - Rust");
+    println!("Copyright (C) 2026 Dr. Aldo Gonzalez Vazquez");
     println!();
     println!("Escribe 'help' para ver la lista de comandos disponibles.");
     println!("Escribe 'exit' para salir.");

@@ -44,8 +44,8 @@ pub fn cls() {
 }
 
 pub fn ver() {
-    println!("MS-DOS Emulator (Rust) Version 1.0");
-    println!("Copyright (C) 2024 Dr. Aldo Gonzalez Vazquez");
+    println!("MS-DOS Emulator (Rust) Version 1.1");
+    println!("Copyright (C) 2026 Dr. Aldo Gonzalez Vazquez");
     println!("Rust MS-DOS Emulation Project");
 }
 

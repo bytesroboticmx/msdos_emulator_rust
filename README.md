@@ -1,6 +1,6 @@
 # MS-DOS Emulator en Rust
 
-Un emulador básico de MS-DOS escrito en Rust que proporciona un intérprete de comandos interactivo con soporte para comandos comunes del sistema operativo DOS.
+Un emulador básico de MS-DOS escrito en Rust versión 1.1 que proporciona un intérprete de comandos interactivo con soporte para comandos comunes del sistema operativo DOS.
 
 ## Características
 
@@ -63,8 +63,8 @@ cargo run
 
 3. Usar el emulador:
 ```bash
-MS-DOS Emulator v1.0 - Rust
-Copyright (C) 2024 Dr. Aldo Gonzalez Vazquez
+MS-DOS Emulator v1.1 - Rust
+Copyright (C) 2026 Dr. Aldo Gonzalez Vazquez
 
 Escribe 'help' para ver la lista de comandos disponibles.
 Escribe 'exit' para salir.
@@ -93,6 +93,8 @@ msdos_emulator_rust/
 ## Autor
 
 Dr. Aldo Gonzalez Vazquez
+
+Copyright (C) 2026
 
 ## Licencia
 
